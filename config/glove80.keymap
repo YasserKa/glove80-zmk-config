@@ -93,8 +93,8 @@
               XXX         XXX     XXX        XXX        XXX         XXX                                                                                  &sys SYS 0   XXX        XXX         XXX       XXX         XXX
               HYPER_MOD   &kp Q   &kp W      &kp E      &kp R       &kp T                                                                                &kp Y        &kp U      &kp I       &kp O     &kp P       HYPER_MOD
               &kp TAB     &kp A   &kp S      &kp D      &kp F       &kp G                                                                                &kp H        &kp J      &kp K       &kp L     &kp SEMI    &mo NUM
-              MEH_MOD     &kp Z   &kp X      &kp C      &kp V       &kp B   &kp LCTRL   &kp LS(LCTRL)   &kp LS(LALT)   &kp BSPC   &kp RGUI   &kp ESC     &kp N        &kp M      &kp COMMA   &kp DOT   &kp SLASH   MEH_MOD
-              &mo MEDIA   XXX     &kp LGUI   &kp LEFT   &kp RIGHT           &kp LSHFT   &kp LALT        &kp LC(LALT)   &kp DEL    &kp RET    &kp SPACE                &kp DOWN   &kp UP      XXX       XXX         &mo FN
+              MEH_MOD     &kp Z   &kp X      &kp C      &kp V       &kp B   &kp LCTRL   &kp LS(LCTRL)   &kp LC(LALT)   &kp BSPC   &kp RGUI   &kp ESC     &kp N        &kp M      &kp COMMA   &kp DOT   &kp SLASH   MEH_MOD
+              &mo MEDIA   XXX     &kp LGUI   &kp LEFT   &kp RIGHT           &kp LSHFT   &kp LALT        &kp LS(LALT)   &kp DEL    &kp RET    &kp SPACE                &kp DOWN   &kp UP      XXX       XXX         &mo FN
             >;
         };
         num {
